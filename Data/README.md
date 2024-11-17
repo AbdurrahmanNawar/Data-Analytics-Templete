@@ -2,6 +2,9 @@
 
 ## folders
 
+source data:
+https://www.kaggle.com/datasets/wsj/college-salaries/data
+
 ### raw
 Original, unmodified data after downloading, scraping, etc.
 
